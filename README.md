@@ -23,32 +23,32 @@ Already have an application or website? I can help with **new features, UI impro
 Available for projects through **Fiverr, Upwork, direct clients, remote projects, and team collaborations**.
 
 🔄 **Complete Workflow:**
-💡 Requirement     
-→ 🎨 Design 
-→ 💻 Development   
-→ 🔗 API/Database 
-→ 🧪 Testing 
-→ 🚀 Deployment 
-→ 🔧 Maintenance
+-💡 Requirement     
+-→ 🎨 Design 
+-→ 💻 Development   
+-→ 🔗 API/Database 
+-→ 🧪 Testing 
+-→ 🚀 Deployment 
+-→ 🔧 Maintenance
 
 ### 🛠️ Key Skills
 
-🌐 Web Development     '
-• 📱 Android Development 
-• 🎨 UI/UX Design      
-• 💻 Frontend 
-• ⚙️ Backend 
-• 🔥 Firebase 
-• 🗄️ Database 
-• 🔗 REST API 
-• 🔐 Authentication 
-• 📊 Dashboard         
-• 📝 CRUD 
-• 🐙 Git/GitHub •      
-🧪 Testing 
-• 🐞 Bug Fixing • 
-🚀 Optimization • 
-☁️ Deployment
+-🌐 Web Development     '
+-• 📱 Android Development 
+-• 🎨 UI/UX Design      
+-• 💻 Frontend 
+-• ⚙️ Backend 
+-• 🔥 Firebase 
+-• 🗄️ Database 
+-• 🔗 REST API 
+-• 🔐 Authentication 
+-• 📊 Dashboard         
+-• 📝 CRUD 
+-• 🐙 Git/GitHub 
+-• 🧪 Testing 
+-• 🐞 Bug Fixing 
+-• 🚀 Optimization 
+-• ☁️ Deployment
 
 **Whether you need a new Web application, Android app, business solution, or improvements to an existing project, the development can be customized according to your requirements and goals.**
 
