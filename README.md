@@ -23,23 +23,29 @@ Already have an application or website? I can help with **new features, UI impro
 Available for projects through **Fiverr, Upwork, direct clients, remote projects, and team collaborations**.
 
 🔄 **Complete Workflow:**
-💡 Requirement     → 🎨 Design 
-→ 💻 Development   → 🔗 API/Database 
+💡 Requirement     
+→ 🎨 Design 
+→ 💻 Development   
+→ 🔗 API/Database 
 → 🧪 Testing 
 → 🚀 Deployment 
 → 🔧 Maintenance
 
 ### 🛠️ Key Skills
 
-🌐 Web Development     • 📱 Android Development 
-• 🎨 UI/UX Design      • 💻 Frontend 
+🌐 Web Development     '
+• 📱 Android Development 
+• 🎨 UI/UX Design      
+• 💻 Frontend 
 • ⚙️ Backend 
 • 🔥 Firebase 
 • 🗄️ Database 
 • 🔗 REST API 
 • 🔐 Authentication 
-• 📊 Dashboard         • 📝 CRUD 
-• 🐙 Git/GitHub •      🧪 Testing 
+• 📊 Dashboard         
+• 📝 CRUD 
+• 🐙 Git/GitHub •      
+🧪 Testing 
 • 🐞 Bug Fixing • 
 🚀 Optimization • 
 ☁️ Deployment
